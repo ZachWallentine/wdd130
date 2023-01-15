@@ -1,7 +1,40 @@
 content {
     max-width:1600px
-    margin: 0 auto
-
-
 }
-    
+nav a {
+    text-align: center;
+}
+#hero-msg h1, #hero-msg h4{
+    text-align: center;
+}
+.button-box{
+    text-align: center;
+}
+main section{
+    text-align: center;
+}
+#background{
+    height: 725px
+}
+body{
+    background-color: #50514F;
+}
+header{
+    background-color: #50514F;
+}
+nav:a :hover{
+    background-color: #50514F;
+    color: #F8FCFF;
+}
+.book:hover, .join:hover{
+    background-color: #50514F;
+}
+#background{
+    background-color:#50514F;
+}
+.msg{
+    background-color: #50514F;
+}
+footer{
+    background-color: #50514F;
+}
