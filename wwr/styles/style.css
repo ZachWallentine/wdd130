@@ -33,7 +33,7 @@ header{
 }
 nav:a :hover{
     background-color: #50514F;
-    color: #F8FCFF;
+    color: #FB3640;
 }
 .book, .join{
     color: #F8FCFF;
@@ -50,7 +50,8 @@ nav:a :hover{
     background-color:#50514F;
 }
 .msg{
-    background-color: #50514F;
+    background-color: #B5BA72;
+    color: #F8FCFF;
 }
 footer{
     background-color: #50514F;
