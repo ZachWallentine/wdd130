@@ -23,7 +23,7 @@ main section img{
     height: 725px
 }
 body{
-    background-color: #50514F;
+    background-color: #B5BA72;
     font-size: 22px;
     margin: 0;
     padding: 0;
@@ -76,6 +76,7 @@ footer .social img{
 }
 .home-title{
     color: #F8FCFF;
+    font-family:fantasy
 }
 .msg h2{
     color: #F8FCFF;
