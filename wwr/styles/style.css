@@ -97,7 +97,7 @@ footer .social img{
     padding-top: 5px;
 }
 #hero.img{
-    width: 100%;
+    max-width: 100%;
 }
 .home-title{
     font-family: fantasy;
