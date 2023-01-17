@@ -99,14 +99,10 @@ footer .social img{
 #hero.img{
     width: 100%;
 }
-font-family{
-    @import url(https://fonts.google.com/specimen/Lato);
-    font-size: 22px;
-}
 .home-title{
-    @import url(https://fonts.google.com/specimen/Oswald)
+    font-family: fantasy;
+    margin-top: 10px;
     font-size: 2em
-    margin: top 10px;
 }
 h2{
     margin: 0;
