@@ -71,12 +71,12 @@ grid-gap: 20px;
   background-color: red; 
 } 
 .green3 {
-  width: 100px; 
+  width: 50%; 
   height: 100px; 
   background-color: green;
 } 
 .yellow3 {
-  width: 100px; 
+  width: 50%; 
   height: 100px; 
   background-color: gold; 
 } 
