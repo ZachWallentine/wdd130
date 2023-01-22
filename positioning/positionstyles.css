@@ -92,10 +92,12 @@ grid-gap: 20px;
 .content4 {
   /* This is the parent of the activity 4 boxes. */
   height: 400px;
+  display: grid;
+  grid-template-columns: 1fr,1fr;
 }
 .red4 {
   width: 100px; 
-  height: 100px; 
+  height: 100%; 
   background-color: red; 
 } 
 .green4 {
