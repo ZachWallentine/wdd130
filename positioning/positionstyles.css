@@ -94,6 +94,7 @@ grid-gap: 20px;
   height: 400px;
   display: grid;
   grid-template-columns: 1fr,1fr;
+  grid-gap: 0px;
 }
 .red4 {
   width: 100%; 
