@@ -47,16 +47,19 @@ grid-gap: 20px;
   width: 100px; 
   height: 100px; 
   background-color: green; 
+  grid-row: 1/2;
 } 
 .yellow2 {
   width: 100px; 
   height: 100px; 
   background-color: gold; 
+  grid-row: 2/3;
 } 
 .blue2 {
   width: 100px; 
   height: 100px; 
   background-color: blue; 
+  grid-row: 3/4;
 } 
 /* Activity 3 styles */ 
 .content3 {
