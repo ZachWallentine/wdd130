@@ -56,13 +56,15 @@ grid-gap: 20px;
   width: 100px; 
   height: 100px; 
   background-color: gold; 
-  grid-row: 2/3;
+  grid-row: 3/4;
+  grid-column: 3/4;
 } 
 .blue2 {
   width: 100px; 
   height: 100px; 
   background-color: blue; 
-  grid-row: 3/4;
+  grid-row: 4/5;
+  grid-column: 4/5;
 } 
 /* Activity 3 styles */ 
 .content3 {
