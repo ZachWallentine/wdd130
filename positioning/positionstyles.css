@@ -186,7 +186,7 @@ grid-gap: 20px;
   height: 400px; 
   background-color: gold; 
   grid-column: 3/6;
-  grid-row: 4/6;
+  grid-row: 5/7;
 } 
 .blue6 {
   width: 400px; 
