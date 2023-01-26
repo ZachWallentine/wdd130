@@ -6,6 +6,8 @@ nav a {
     padding: 35px;
     color: #F8FCFF;
     text-decoration: none;
+}
+nav{
     display: flex;
     justify-content: space-around;
 }
