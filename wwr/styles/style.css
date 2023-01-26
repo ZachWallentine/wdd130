@@ -41,7 +41,7 @@ header{
     display: grid;
     grid-template-columns: 150px auto;
 }
-nav:a :hover{
+nav :hover{
     background-color: #50514F;
     color: #FB3640;
 }
