@@ -146,5 +146,5 @@ h2{
 }
 main{
     display: grid;
-    grid-template-columns: repeat(10 10%);
+    grid-template-columns: repeat(10 1fr);
 }
