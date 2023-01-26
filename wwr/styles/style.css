@@ -68,6 +68,9 @@ footer{
     color: #F8FCFF;
     padding: 25px 50px;
     margin-top: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
 footer a{
     color: #F8FCFF;
