@@ -30,6 +30,8 @@ body{
 }
 header{
     background-color: #79A9D1;
+    display: grid;
+    grid-template-columns: 150px auto;
 }
 nav:a :hover{
     background-color: #50514F;
