@@ -170,7 +170,7 @@ main{
 .card-img, .mountains {
     width: 100%;
 }
-.river-card{
+.rivers-card{
     grid-column: 2/4;
     grid-row: 2/3;
 }
