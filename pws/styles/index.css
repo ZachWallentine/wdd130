@@ -20,11 +20,15 @@ nav :hover{
 main{
     display: grid;
     grid-template-columns: 1fr,1fr,1fr,1fr;
-    background-color: darkslategray;
+    background-color: gray;
 }
 main h1{
     grid-column: 1/2;
     font-size: x-large;
+    padding: 10%;
+}
+main p{
+    grid-column: 3/5;
     padding: 10%;
 }
 .home1{
