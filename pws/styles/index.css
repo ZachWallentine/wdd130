@@ -29,6 +29,7 @@ main{
 .home1{
     width: 175px;
     height: 225px;
+    grid-column: 2/3;
 }
 .home2{
     max-width: 100%;
