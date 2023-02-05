@@ -19,7 +19,7 @@ nav :hover{
 }
 main{
     display: grid;
-    grid-template-columns: 1fr,1fr,1fr;
+    grid-template-columns: 1fr,1fr,1fr,1fr;
     background-color: darkslategray;
 }
 .h1{
@@ -33,7 +33,7 @@ main{
 }
 .home2{
     max-width: 100%;
-    grid-column: 1/4;
+    grid-column: 1/5;
 }
 header{
     background-color: aquamarine;
