@@ -7,6 +7,7 @@ nav{
     color: gray;
     text-decoration: none;
     display: flex;
+    justify-content: space-around;
 }
 nav :hover{
     background-color: azure;
