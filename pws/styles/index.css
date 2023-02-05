@@ -4,8 +4,12 @@ content {
 nav a {
     text-align: center;
     padding: 35px;
-    color: #F8FCFF;
+    color: gray;
     text-decoration: none;
+}
+nav :hover{
+    background-color: azure;
+    color: black;
 }
 #background{
     color: darkgray;
