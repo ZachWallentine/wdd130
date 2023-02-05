@@ -1,12 +1,12 @@
 content {
     max-width:1600px
 }
-nav a {
+nav{
     text-align: center;
     padding: 35px;
     color: gray;
     text-decoration: none;
-    align-self: center;
+    display: flex;
 }
 nav :hover{
     background-color: azure;
