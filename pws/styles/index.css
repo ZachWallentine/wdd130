@@ -12,6 +12,7 @@ nav a {
 }
 .h1{
     align-self: center;
+    align-content: center;
     font-size: x-large;
 }
 .home1{
