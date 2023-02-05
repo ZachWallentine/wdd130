@@ -3,7 +3,7 @@ content {
 }
 nav{
     text-align: center;
-    padding: 35px;
+    padding:10%;
     color: gray;
     text-decoration: none;
     display: flex;
@@ -48,5 +48,5 @@ header{
     height: 100px;
 }
 footer{
-    background-color: #B9B3BD;
+    background-color: #13A49D;
 }
