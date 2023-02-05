@@ -6,6 +6,7 @@ nav a {
     padding: 35px;
     color: gray;
     text-decoration: none;
+    align-self: center;
 }
 nav :hover{
     background-color: azure;
