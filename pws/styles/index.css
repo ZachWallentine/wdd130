@@ -44,10 +44,11 @@ header{
     background-color: aquamarine;
     display: grid;
     grid-template-columns: 200px auto;
+    height: 200px;
 }
 .logo{
     width: 100px;
-    height: 150px;
+    height: 100px;
 }
 footer{
     background-color: aquamarine;
