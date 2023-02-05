@@ -49,6 +49,9 @@ header{
 }
 footer{
     background-color: #13A49D;
-    height: 100px;
+    height: 50px;
     text-decoration: none;
+}
+footer a{
+    align-self: center;
 }
