@@ -22,7 +22,7 @@ main{
     grid-template-columns: 1fr,1fr,1fr;
     background-color: darkslategray;
 }
-#h1{
+.h1{
     grid-column: 2/3;
     font-size: x-large;
 }
