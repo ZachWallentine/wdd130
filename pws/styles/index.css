@@ -41,7 +41,7 @@ header{
     background-color: #13A49D;
     display: grid;
     grid-template-columns: 200px auto;
-    height: 100px;
+    height: 200px;
 }
 .logo{
     width: 100px;
