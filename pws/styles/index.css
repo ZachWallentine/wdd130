@@ -16,7 +16,7 @@ nav :hover{
 }
 main{
     display: grid;
-    grid-template-columns: 1fr,1fr,1fr,1fr;
+    grid-template-columns: 1fr,1fr,1fr;
     background-color: #B9B3BD;
 }
 main h1{
@@ -25,7 +25,7 @@ main h1{
     padding: 10%;
 }
 main p{
-    grid-column: 3/5;
+    grid-column: 3/4;
     padding: 10%;
 }
 .home1{
@@ -35,7 +35,7 @@ main p{
 }
 .home2{
     max-width: 100%;
-    grid-column: 1/5;
+    grid-column: 1/4;
 }
 header{
     background-color: #13A49D;
