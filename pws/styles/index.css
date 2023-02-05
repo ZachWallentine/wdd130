@@ -53,5 +53,5 @@ footer{
     text-decoration: none;
 }
 footer a{
-    align-self: center;
+    display: flex;
 }
