@@ -10,6 +10,7 @@ nav a {
 nav :hover{
     background-color: azure;
     color: black;
+    text-decoration: underline;
 }
 #background{
     color: darkgray;
@@ -34,6 +35,10 @@ header{
     background-color: aquamarine;
     display: grid;
     grid-template-columns: 200px auto;
+}
+.logo{
+    width: 100px;
+    height: 100px;
 }
 footer{
     background-color: aquamarine;
