@@ -1,3 +1,12 @@
+content {
+    max-width:1600px
+}
+nav a {
+    text-align: center;
+    padding: 35px;
+    color: #F8FCFF;
+    text-decoration: none;
+}
 #background{
     color: darkgray;
 }
@@ -12,4 +21,7 @@ header{
     background-color: aquamarine;
     display: grid;
     grid-template-columns: 150px auto;
+}
+footer{
+    background-color: aquamarine;
 }
