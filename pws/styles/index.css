@@ -23,8 +23,9 @@ main{
     background-color: darkslategray;
 }
 main h1{
-    grid-column: 2/3;
+    grid-column: 1/2;
     font-size: x-large;
+    padding: 10%;
 }
 .home1{
     width: 175px;
