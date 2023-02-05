@@ -9,7 +9,6 @@ nav{
     display: flex;
     justify-content: space-around;
     font-size: larger;
-    margin: auto;
 }
 nav :hover{
     background-color: azure;
