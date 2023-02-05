@@ -10,6 +10,10 @@ nav a {
 #background{
     color: darkgray;
 }
+.main{
+    display: grid;
+    grid-template-columns: 1fr,1fr,1fr;
+}
 #h1{
     align-self: center;
     align-content: center;
