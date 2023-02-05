@@ -14,13 +14,10 @@ nav :hover{
     background-color: azure;
     color: black;
 }
-#background{
-    color: darkgray;
-}
 main{
     display: grid;
     grid-template-columns: 1fr,1fr,1fr,1fr;
-    background-color: gray;
+    background-color: #B9B3BD;
 }
 main h1{
     grid-column: 1/2;
@@ -41,7 +38,7 @@ main p{
     grid-column: 1/5;
 }
 header{
-    background-color: aquamarine;
+    background-color: #13A49D;
     display: grid;
     grid-template-columns: 200px auto;
     height: 100px;
@@ -51,5 +48,5 @@ header{
     height: 100px;
 }
 footer{
-    background-color: aquamarine;
+    background-color: #B9B3BD;
 }
