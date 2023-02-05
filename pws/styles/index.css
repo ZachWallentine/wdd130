@@ -23,8 +23,7 @@ nav :hover{
     background-color: darkslategray;
 }
 #h1{
-    align-self: center;
-    align-content: center;
+    grid-column: 2/3;
     font-size: x-large;
 }
 .home1{
