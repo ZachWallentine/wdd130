@@ -38,7 +38,7 @@ nav :hover{
     height: 150px;
     grid-column: 1/2;
 }
-main p{
+main p1{
     grid-column: 1/2;
     justify-content: center;
 }
@@ -52,5 +52,10 @@ main h1{
     padding: 10%;
 }
 .project2{
-
+    width: 300px;
+    height: 150px;
+    grid-column: 3/4;
+}
+main p2{
+    
 }
