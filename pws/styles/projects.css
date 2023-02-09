@@ -61,7 +61,7 @@ main h1{
     margin: 5%;
 }
 .project2{
-    width: 100%;
+    width: 300px;
     height: auto;
     grid-column: 3/4;
     grid-row: 2/3;
