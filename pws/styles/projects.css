@@ -62,5 +62,5 @@ main h1{
 main p2{
     grid-column: 3/4;
     grid-row: 3/4;
-    max-width: 100%;
+    max-width: 200px;
 }
