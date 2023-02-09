@@ -37,10 +37,11 @@ nav :hover{
     width: 300px;
     height: 150px;
     grid-column: 1/2;
+    max-width: 100%;
 }
 main p1{
     grid-column: 1/2;
-    justify-content: center;
+    max-width: 100%;
 }
 main{
     display: grid;
@@ -55,7 +56,11 @@ main h1{
     width: 300px;
     height: 150px;
     grid-column: 3/4;
+    grid-row: 2/3;
+    max-width: 100%;
 }
 main p2{
     grid-column: 3/4;
+    grid-row: 3/4;
+    max-width: 100%;
 }
