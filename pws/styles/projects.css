@@ -37,3 +37,7 @@ nav :hover{
     width: 300px;
     height: 150px;
 }
+main{
+    display: grid;
+    grid-template-columns: 1fr,1fr;
+}
