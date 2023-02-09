@@ -1,3 +1,4 @@
+@import url('https://fonts.google.com/specimen/Oswald');
 header{
     background-color: #13A49D;
     display: grid;
@@ -42,6 +43,7 @@ nav :hover{
 main p1{
     grid-column: 1/2;
     max-width: 300px;
+    font: "Oswald";
 }
 main{
     display: grid;
