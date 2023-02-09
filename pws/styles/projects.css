@@ -36,8 +36,20 @@ nav :hover{
 .project1{
     width: 300px;
     height: 150px;
+    grid-column: 1/2;
+}
+main p{
+    grid-column: 1/2;
 }
 main{
     display: grid;
-    grid-template-columns: 1fr,1fr;
+    grid-template-columns: 1fr,1fr,1fr;
+}
+main h1{
+    grid-column: 1/2;
+    font-size: x-large;
+    padding: 10%;
+}
+.project2{
+
 }
