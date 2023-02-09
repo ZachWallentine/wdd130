@@ -55,9 +55,9 @@ main{
     grid-template-columns: 300px,Auto,300px;
 }
 main h1{
-    grid-column: 2/3;
+    grid-column: 1/4;
     font-size: x-large;
-    padding: 10%;
+    align-self: center;
 }
 .project2{
     width: 300px;
@@ -65,6 +65,10 @@ main h1{
     grid-column: 3/4;
     grid-row: 2/3;
     max-width: 100%;
+    margin: 5%;
+    align-self: center;
+    border-radius: 5%;
+    box-shadow: 5px 5px 10px #6f7364;
 }
 main p2{
     grid-column: 3/4;
