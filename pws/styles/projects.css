@@ -16,6 +16,7 @@ footer{
 }
 footer a{
     display: flex;
+    margin: 5%;
     justify-content: space-around;
 }
 content {
