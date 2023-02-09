@@ -58,6 +58,7 @@ main h1{
     grid-column: 1/4;
     font-size: x-large;
     align-self: center;
+    margin: 5%;
 }
 .project2{
     width: 300px;
@@ -74,5 +75,6 @@ main p2{
     grid-column: 3/4;
     grid-row: 3/4;
     width: 200px;
+    margin: 5%;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
