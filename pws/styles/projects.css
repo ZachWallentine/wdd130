@@ -1,0 +1,35 @@
+header{
+    background-color: #13A49D;
+    display: grid;
+    grid-template-columns: 200px auto;
+    height: 200px;
+}
+.logo{
+    width: 100px;
+    height: 100px;
+}
+footer{
+    background-color: #13A49D;
+    height: 50px;
+    text-decoration: none;
+}
+footer a{
+    display: flex;
+    justify-content: space-around;
+}
+content {
+    max-width:1600px
+}
+nav{
+    text-align: center;
+    padding:10%;
+    color: gray;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-around;
+    font-size: larger;
+}
+nav :hover{
+    background-color: azure;
+    color: black;
+}
