@@ -45,7 +45,7 @@ main p1{
 }
 main{
     display: grid;
-    grid-template-columns: 1fr,1fr,1fr;
+    grid-template-columns: 300px,Auto,300px;
 }
 main h1{
     grid-column: 2/3;
