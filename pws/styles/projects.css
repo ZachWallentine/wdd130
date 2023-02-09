@@ -39,10 +39,12 @@ nav :hover{
     height: 150px;
     grid-column: 1/2;
     max-width: 100%;
+    padding: 10%;
 }
 main p1{
     grid-column: 1/2;
     max-width: 300px;
+    padding: 10%;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 main{
