@@ -43,7 +43,7 @@ nav :hover{
 main p1{
     grid-column: 1/2;
     max-width: 300px;
-    font: "Oswald";
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 main{
     display: grid;
