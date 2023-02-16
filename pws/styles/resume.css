@@ -38,7 +38,7 @@ nav :hover{
 .resume1{
     width: 400px;
     height: auto;
-    grid-column: 1/2;
+    grid-column: 3/4;
     max-width: 100%;
     margin: 5%;
     align-self: center;
@@ -54,4 +54,16 @@ nav :hover{
     align-self: center;
     border-radius: 5%;
     box-shadow: 5px 5px 10px #6f7364;
+}
+main{
+    display: grid;
+    grid-template-columns: 1fr,1fr,1fr;
+    background-color: #B9B3BD;
+}
+main h1{
+    grid-column: 2/3;
+    font-size: x-large;
+    align-self: center;
+    margin: 5%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
