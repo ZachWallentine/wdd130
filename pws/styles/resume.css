@@ -54,6 +54,7 @@ nav :hover{
     align-self: center;
     border-radius: 5%;
     box-shadow: 5px 5px 10px #6f7364;
+    padding: 5%;
 }
 main{
     display: grid;
@@ -66,4 +67,8 @@ main h1{
     align-self: center;
     margin: 5%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+main p{
+    grid-column: 2/3;
+
 }
