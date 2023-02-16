@@ -44,6 +44,7 @@ nav :hover{
     align-self: center;
     border-radius: 5%;
     padding: 5%;
+    border: 5%;
 }
 .resume2{
     width: 200px;
@@ -54,6 +55,7 @@ nav :hover{
     align-self: center;
     border-radius: 5%;
     padding: 5%;
+    border: 5%;
 }
 main{
     display: grid;
