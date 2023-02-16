@@ -7,6 +7,7 @@ nav{
     text-decoration: none;
     display: flex;
     justify-content: space-around;
+    align-self: center;
     font-size: larger;
 }
 nav :hover{
