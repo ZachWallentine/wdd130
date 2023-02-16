@@ -16,7 +16,7 @@ nav :hover{
 }
 main{
     display: grid;
-    grid-template-columns: 1fr,1fr,1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     background-color: #B9B3BD;
 }
 main h1{

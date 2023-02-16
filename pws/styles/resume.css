@@ -46,7 +46,6 @@ nav :hover{
     justify-self: center;
     border-radius: 5%;
     padding: 5%;
-    border: 5%;
 }
 .resume2{
     width: 200px;
@@ -58,11 +57,10 @@ nav :hover{
     justify-self: center;
     border-radius: 5%;
     padding: 5%;
-    border: 5%;
 }
 main{
     display: grid;
-    grid-template-columns: 1fr,1fr,1fr;
+    grid-template-columns: 1fr 1fr 1fr;
 }
 main h1{
     grid-column: 2/3;
