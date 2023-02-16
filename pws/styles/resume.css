@@ -63,6 +63,7 @@ main{
 }
 main h1{
     grid-column: 2/3;
+    grid-row: 2/3;
     font-size: x-large;
     align-self: center;
     margin: 5%;
