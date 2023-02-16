@@ -36,7 +36,7 @@ nav :hover{
     color: black;
 }
 .resume1{
-    width: 400px;
+    width: 200px;
     height: auto;
     grid-column: 1/2;
     max-width: 100%;
@@ -46,7 +46,7 @@ nav :hover{
     box-shadow: 5px 5px 10px #6f7364;
 }
 .resume2{
-    width: 400px;
+    width: 200px;
     height: auto;
     grid-column: 3/4;
     max-width: 100%;
