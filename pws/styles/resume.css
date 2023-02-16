@@ -35,3 +35,23 @@ nav :hover{
     background-color: azure;
     color: black;
 }
+.resume1{
+    width: 400px;
+    height: auto;
+    grid-column: 1/2;
+    max-width: 100%;
+    margin: 5%;
+    align-self: center;
+    border-radius: 5%;
+    box-shadow: 5px 5px 10px #6f7364;
+}
+.resume2{
+    width: 400px;
+    height: auto;
+    grid-column: 1/2;
+    max-width: 100%;
+    margin: 5%;
+    align-self: center;
+    border-radius: 5%;
+    box-shadow: 5px 5px 10px #6f7364;
+}
